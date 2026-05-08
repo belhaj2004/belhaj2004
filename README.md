@@ -52,14 +52,6 @@ I'm a graduate student in Georgia Tech's Online Master of Science in Computer Sc
 
 ---
 
-##  GitHub Stats
-
-![belhaj2004's GitHub Stats](https://github-readme-stats.vercel.app/api?username=belhaj2004&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=belhaj2004&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ##  What I'm Looking For
 
 I'm currently open to **junior roles** in:
