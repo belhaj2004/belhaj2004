@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi there, I'm Adib Belhaj Hasan 
 
-<!--
-**belhaj2004/belhaj2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **OMSCS Student @ Georgia Tech** — specializing in **Machine Learning**  
+ Actively seeking **Junior Software / ML Engineer** roles  
+ Based in Atlanta, GA
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a graduate student in Georgia Tech's Online Master of Science in Computer Science (OMSCS) program, with a specialization in Machine Learning. I enjoy building practical solutions and love bridging the gap between software engineering and data-driven systems.
+
+-  Currently exploring: **Deep Learning, NLP, and ML pipelines**
+-  Learning: **PyTorch, scikit-learn, and MLOps best practices**
+-  Ask me about: **Java, Python, or anything ML-related**
+-  Reach me at: [belhaj2004@gmail.com]
+-  LinkedIn: [www.linkedin.com/in/adib-belhaj]
+
+---
+
+## Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+**ML / Data Science**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## Featured Projects
+
+>  *Check the pinned repositories below for my best work!*
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Milk Tracker](https://github.com/belhaj2004/Milk-Tracker) | A JavaScript app for tracking dairy inventory | JavaScript |
+| [Chatbox](https://github.com/belhaj2004/Chatbox-) | A Java-based chat application | Java |
+| [Animation using Processing](https://github.com/belhaj2004/Animation-using-Processing) | Creative animations built with Processing | Processing |
+
+---
+
+##  GitHub Stats
+
+![belhaj2004's GitHub Stats](https://github-readme-stats.vercel.app/api?username=belhaj2004&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=belhaj2004&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+##  What I'm Looking For
+
+I'm currently open to **junior roles** in:
+-  Machine Learning / AI Engineering
+-  Backend Development (Java / Python)
+-  Full-Stack Development
+
+If you're hiring or want to collaborate, feel free to reach out!
+
+---
+
+*"The best way to predict the future is to implement it."*
