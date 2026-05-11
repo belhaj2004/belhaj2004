@@ -44,11 +44,11 @@ I'm a graduate student in Georgia Tech's Online Master of Science in Computer Sc
 
 >  *Check the pinned repositories below for my best work!*
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Milk Tracker](https://github.com/belhaj2004/Milk-Tracker) | A JavaScript app for tracking dairy inventory | JavaScript |
-| [Chatbox](https://github.com/belhaj2004/Chatbox-) | A Java-based chat application | Java |
-| [Animation using Processing](https://github.com/belhaj2004/Animation-using-Processing) | Creative animations built with Processing | Processing |
+| Project | Description | Tech | Live |
+|--------|-------------|------|------|
+| [Scrollytelling](https://github.com/belhaj2004/Scrollytelling) | Scroll-driven data visualization exploring aircraft incident data (1995–2016) with animated D3.js charts | JavaScript, D3.js, HTML/CSS | [🌐 Live Demo](https://belhaj2004.github.io/Scrollytelling/) |
+| [Powerpuff Girls Animation](https://github.com/belhaj2004/Powerpuff-Girls-Animation) | Character-based 2D animation built with the Processing framework using OOP principles | Processing, Java | [▶ Preview](https://youtube.com/shorts/OWv0O5dcPS0) |
+| [JavaFX Message Board](https://github.com/belhaj2004/JavaFX-Message-Board) | Desktop message board app with animated GIF responses, image assets, and sound effects | Java, JavaFX | [▶ Demo](https://www.youtube.com/shorts/cuESthr3tY0) |
 
 ---
 
