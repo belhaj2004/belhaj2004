@@ -46,6 +46,7 @@ I'm a graduate student in Georgia Tech's Online Master of Science in Computer Sc
 
 | Project | Description | Tech | Live |
 |--------|-------------|------|------|
+| [MemoryGPT](https://github.com/belhaj2004/memorygpt-kvmemnet) | Interactive Key-Value Memory Network with biography Q&A, attention visualization, and explainable memory retrieval | Python, PyTorch, Streamlit | [🧠 Live Demo](https://memorygpt-kvmemnet-adib.streamlit.app/) |
 | [Scrollytelling](https://github.com/belhaj2004/Scrollytelling) | Scroll-driven data visualization exploring aircraft incident data (1995–2016) with animated D3.js charts | JavaScript, D3.js, HTML/CSS | [🌐 Live Demo](https://belhaj2004.github.io/Scrollytelling/) |
 | [Powerpuff Girls Animation](https://github.com/belhaj2004/Powerpuff-Girls-Animation) | Character-based 2D animation built with the Processing framework using OOP principles | Processing, Java | [▶ Preview](https://youtube.com/shorts/OWv0O5dcPS0) |
 | [JavaFX Message Board](https://github.com/belhaj2004/JavaFX-Message-Board) | Desktop message board app with animated GIF responses, image assets, and sound effects | Java, JavaFX | [▶ Demo](https://www.youtube.com/shorts/cuESthr3tY0) |
